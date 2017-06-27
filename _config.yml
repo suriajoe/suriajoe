@@ -1,2 +1,4 @@
 name: Joseph Suria
 markdown: kramdown
+gems: 
+  - jekyll-sitemap
